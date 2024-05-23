@@ -1,0 +1,171 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-583-224
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\9B117028q3\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-583-224
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\9B117028q3\\main.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-583-224
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\9B117028q3\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 653-583-224
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:49:03] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:49:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:50:54] "GET /login HTTP/1.1" 200 -
+ERROR:root:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:51:19] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:52:09] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:52:09] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:52:32] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:52:32] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:52:44] "GET /login HTTP/1.1" 200 -
+ERROR:root:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:53:16] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:53:18] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:53:18] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:55:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:55:32] "GET /login HTTP/1.1" 200 -
+ERROR:root:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:55:44] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:root:no such table: user
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:59:45] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:59:47] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:59:47] "GET /login HTTP/1.1" 200 -
+ERROR:root:no such table: user
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 19:59:55] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:00:07] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:00:07] "GET /login HTTP/1.1" 200 -
+ERROR:root:no such table: user
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:00:11] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:03:33] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:03:33] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:03:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:03:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:05:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:05:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:11] "GET /edit HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:15] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:17] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:07:43] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:07:44] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:07:45] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\9B117028q3\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:08:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:19:25] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:19:27] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:19:37] "GET / HTTP/1.1" 200 -
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:19:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.100.41:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 516-774-739
+ERROR:root:Error in index route: 'member' is undefined
+INFO:werkzeug:127.0.0.1 - - [23/May/2024 20:20:12] "GET / HTTP/1.1" 200 -
